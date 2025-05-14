@@ -1,9 +1,0 @@
-
-#1
-a=int(input())
-for i in range(a):
-    b=int(input())
-    if b%2==0:
-        print(f"{b} is an Even number.")
-    else:
-        print(f"{b} is an Odd number.")
